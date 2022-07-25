@@ -12,7 +12,18 @@ Work with your team to implement the following user story:
 
 * It's done when I store a bedtime in a variable called `bedTime` and this line is logged to the console: "Fun fact: `VALUE_STORED_IN_VARIABLE_BEDTIME`."
 
-* It's done when I reassign the values of `name`, `pets`, and `funFact` with my new teammate's information and the logs in the console reflect the new values.
+* It's done when I reassign the values of `name`, `siblings`, and `bedTime` with my new teammate's information and the logs in the console reflect the new values.
 
+## 💡 Hints
 
-Use [Google](https://www.google.com) or another search engine to research this.
+How can we combine values using the concatenation operator (`+`) to log a single message to the console?
+
+## 🏆 Bonus
+
+If you have completed this activity, work through the following challenge with your team to further your knowledge:
+
+* What happens when you concatenate two variables in a single console log using `+`? Is the result what you expected? Why or why not?
+
+Use [Google](https://www.google.com) to research this.
+
+---

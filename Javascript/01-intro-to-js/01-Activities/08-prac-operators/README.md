@@ -23,3 +23,5 @@ If you have completed this activity, work through the following challenge with y
 * What is `NaN`? What happens when you use `typeof` to evaluate `NaN`? Is the answer what you expected? Why or why not?
 
 Use [Google](https://www.google.com) or another search engine to research this.
+
+---

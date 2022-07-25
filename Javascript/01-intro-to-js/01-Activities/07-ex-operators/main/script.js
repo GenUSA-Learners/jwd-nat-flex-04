@@ -26,9 +26,22 @@ var x = 10;
 
 let number = 100;
 
-// Both statements will add 10
 number = number + 10;
 number += 10;
+// Both statements will add 10
 
-console.log(number);
-// Output: 120
+console.log(number); // Output: 120
+
+
+
+
+
+// Incrementors
+
+let secondNumber = 45;
+secondNumber ++;
+
+console.log(secondNumber); // Output: 46
+
+secondNumber --;
+console.log(secondNumber);

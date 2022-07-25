@@ -43,4 +43,3 @@ An assignment operator assigns a value to its left operand based on the value of
 
 - [Codecademy Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 - [Codecademy Docs: Operators](https://www.codecademy.com/resources/docs/javascript/operators?page_ref=catalog)
-- []()
