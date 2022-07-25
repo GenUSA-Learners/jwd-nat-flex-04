@@ -3,10 +3,9 @@
 ## Videos
 
 - [What is JavaScript](https://www.youtube.com/watch?v=afSbBjAaqeM&t=348s)
-- https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=2
+- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=2)
 
-
-## Links
+## Helpful Links
 
 - [Codecademy Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 - [Cheatsheet](https://htmlcheatsheet.com/js/)
@@ -21,3 +20,8 @@
 - Linting
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [ESLint](https://eslint.org/)
+
+- [MDN Web Docs on the script element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)
+- [Google documentation on opening Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/open)
+
+- [Var, Let, and Const - What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
