@@ -13,10 +13,13 @@ var expression2 = (e < d); // Evaluates to false
 console.log(a == b); // Strict equality (===) returns false; Equality returns true (==)
 console.log(b === e); // b and e both hold number 50 and are strictly equal
 console.log(c > b); // c is greater than b returns true
-console.log(d < 1); // d is less than 1 returns true
+console.log(d === 0); // d is less than 1 returns true
 
 
 // Use logical operators so all expressions below log to the console as true
+console.log(expression1);
+console.log(expression2);
+
 
 console.log(expression1 || expression2); // Use || to return true
 console.log(expression1 && !expression2); //Use ! and && to return true
