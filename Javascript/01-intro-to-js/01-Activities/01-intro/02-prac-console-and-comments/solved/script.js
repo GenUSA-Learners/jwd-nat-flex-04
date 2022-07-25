@@ -24,6 +24,6 @@ console.log('right above');
 // console.log('the SKY bird');
 console.log('the');
 // console.log('birdy goes');
-/* console.log('closing body tag');
-console.log('you`re it!');*/
+console.log('closing body tag');
+/* console.log('you`re it!');*/
 console.log('RAWR!!');
