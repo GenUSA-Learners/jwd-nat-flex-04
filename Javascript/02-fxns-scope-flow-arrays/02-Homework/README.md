@@ -1,6 +1,6 @@
-# JS-2 Homework
+# JavaScript Functions, Scope, Program Flow, and Arrays
 
-## Codecademy
+## Homework + Learning Objectives
 
 **Learn JavaScript**
 
