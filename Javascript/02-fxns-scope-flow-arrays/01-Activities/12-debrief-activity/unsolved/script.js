@@ -17,3 +17,18 @@ console.log("js file linked!");
 
 // Write you code for Challenge 3 below this line
 // Using ES6 Arrow function syntax
+
+
+
+
+// Write you code for Challenge 4 below this line
+// Using a nested loop
+
+
+
+
+// Write your BONUS code below this line
+// Percentage
+
+
+// Moody Arnold
