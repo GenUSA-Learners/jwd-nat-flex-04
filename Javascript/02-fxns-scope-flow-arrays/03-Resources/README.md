@@ -1,5 +1,9 @@
 # Resources
 
+## Study Games
+
+- [JavaScript Arrays - Quizizz](https://quizizz.com/admin/quiz/62e96b1b736b19001d90c7ae?source=quiz_page)
+
 ## Videos
 
 - [Functions with Mosh](https://www.youtube.com/watch?v=N8ap4k_1QEQ)

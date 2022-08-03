@@ -32,8 +32,8 @@ number += 10;
 
 console.log(number); // Output: 120
 
-
-
+console.log(10 === '10'); // false
+console.log(10 == '10'); // true
 
 
 // Incrementors

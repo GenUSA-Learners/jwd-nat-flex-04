@@ -2,7 +2,7 @@
 
 let client = 'The Piano Man';
 let meetingDate = 'August 2nd';
-let meetingTime = '1:30pm'
+let meetingTime = '1:30pm';
 
 // the + operator
 let displayText = 'Your meeting with ' + client  + ' is scheduled for ' + meetingDate + ' at ' + meetingTime + '.';

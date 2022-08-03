@@ -16,7 +16,7 @@ JavaScript strings have a built-in `concat() method`. The `concat()` function ta
 
 The `Array.join()` function creates a new string from concatenating all elements in an array.
 
-## Sting Interpolation
+## String Interpolation
 
 String interpolation is replacing placeholders with values in a string literal.
 

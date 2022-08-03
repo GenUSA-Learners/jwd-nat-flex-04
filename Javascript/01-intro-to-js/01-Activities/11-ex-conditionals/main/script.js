@@ -11,7 +11,7 @@ if (thirstLevel >= 50) {
 
 // Evaluates to false so nothing is logged
 if (thirstLevel < 50) {
-  console.log("Thirsty!");
+  console.log("Not Thirsty!");
 }
 
 // Else statement
