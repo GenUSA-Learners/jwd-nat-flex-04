@@ -12,6 +12,6 @@ Work with your group to complete this activity. Read the directions carefully an
 
 * Feel free to add more functionality or switch up how things are displayed
 
-## Helpful Links
+<!-- ## Helpful Links
 
-- []()
+- []() -->
