@@ -25,3 +25,6 @@ let order = (time, work) => {
 // Use the order function to write out the steps of making Ice Cream by chaining .then() statements. Remeber to use .catch() to handle any errors.
 
 // Use the image located in the Images folder to view the steps.
+
+
+// Your code goes here
