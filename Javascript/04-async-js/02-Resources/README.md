@@ -18,3 +18,5 @@
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
     - [W3Schools](https://www.w3schools.com/js/js_async.asp)
     - [JavaScript Info](https://javascript.info/async-await)
+- Difference between Promises & Async Await
+    - [Geeks For Geeks](https://www.geeksforgeeks.org/difference-between-promise-and-async-await-in-node-js/#:~:text=Promise%20is%20an%20object%20representing,the%20code%20execute%20more%20synchronously.)
