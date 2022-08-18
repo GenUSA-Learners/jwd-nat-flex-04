@@ -15,7 +15,7 @@ let order = (fruitName, callProduction) => {
   }, 2000);
 };
 
-// Use setTimeout to fill in the body of the production function and using the steps in the image make the ice cream
+// Use callback functions to fill in the body of the production function and using the steps in the image make the ice cream..
 
 let production = () => {
   // Your code goes here
