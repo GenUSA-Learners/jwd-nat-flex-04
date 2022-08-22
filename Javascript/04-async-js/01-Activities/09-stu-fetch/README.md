@@ -16,4 +16,7 @@ Work with a partner to implement the following user story:
 
 * How can we use the [GitHub API documentation on repositories](https://docs.github.com/en/rest/reference/repos#list-repositories-for-a-user) to support this implementation?
 
+ - [W3schools](https://www.w3schools.com/jsref/api_fetch.asp)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
 * Where in the URL string is the repository endpoint added?
