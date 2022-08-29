@@ -75,4 +75,4 @@ console.log(person1);
 
 ## Helpful Links
 
-- []()
+- [MDN Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Class_static_initialization_blocks)
