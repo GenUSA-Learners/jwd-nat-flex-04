@@ -12,7 +12,7 @@
 
 - SOME HELPFUL TIPS!
 
-*  Try focusing on simple keyboard and mouse events! You can use it to change CSS properties or create elements with Javascript.
+*  Try focusing on simple keyboard and mouse events! You can use it to change CSS properties and innerHTML, or create new elements with Javascript.
 
 *  [DOM EVENT tutorial and example types](https://www.w3schools.com/js/js_htmldom_events.asp)
 
