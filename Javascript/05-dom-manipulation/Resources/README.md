@@ -1,6 +1,7 @@
 # JavaScript DOM Manipulation Resources
 
 - [What Is The Website DOM In JavaScript | Dani Krossing](https://www.youtube.com/watch?v=t3CWlfZUvL8)
+- Code Along Quiz App Tutorial [Build A Quiz App with JS | Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k)
 
 - `Vanilla JS`
   - [JavaScript HTML DOM | W3Schools](https://www.w3schools.com/js/js_htmldom.asp)
