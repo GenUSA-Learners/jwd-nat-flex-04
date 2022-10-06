@@ -1,0 +1,15 @@
+{
+  "name": "best-to-test",
+  "version": "1.0.0",
+  "description": "An app to practice writing unit tests with Mocha and Chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kathryn Wilkinson",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
